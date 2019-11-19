@@ -14,6 +14,7 @@ mybatis-plus相比mybatis有什么优势，我就不说了，官方文档都有�
 我的数据库名是book，测试用的表是books。
 
 新建books表：
+
 DROP TABLE IF EXISTS `books`;
 CREATE TABLE `books` (
   `BNO` int(11) NOT NULL,
@@ -25,6 +26,7 @@ CREATE TABLE `books` (
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8;
 
 填充books表：
+
 INSERT INTO `books` VALUES ('1', '水浒传', '施耐庵', '50', '200');
 INSERT INTO `books` VALUES ('2', '红楼梦', '曹雪芹', '26', '210');
 INSERT INTO `books` VALUES ('3', '西游记', '吴承恩', '34', '162');
