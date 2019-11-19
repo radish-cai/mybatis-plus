@@ -38,3 +38,5 @@ INSERT INTO `books` VALUES ('8', 'Java编程思想', '埃克尔', '108', null);
 INSERT INTO `books` VALUES ('9', '语文', null, '1', null);
 INSERT INTO `books` VALUES ('10', '数学', null, '2', null);
 INSERT INTO `books` VALUES ('11', '英语', null, '3', null);
+
+有什么地方不对的，可邮箱call我，要是错的太离谱，让你太想打我，也可以，但是打哪都可以，就是不要打脸。
