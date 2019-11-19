@@ -1,0 +1,2 @@
+1574058002637|19|statement|connection 0|url jdbc:p6spy:mysql://localhost:3306/book?serverTimezone=UTC|SELECT COUNT(1) FROM books|SELECT COUNT(1) FROM books
+1574058002657|1|statement|connection 0|url jdbc:p6spy:mysql://localhost:3306/book?serverTimezone=UTC|SELECT  bno,quantity,bname,price,author  FROM books LIMIT ?,?|SELECT  bno,quantity,bname,price,author  FROM books LIMIT 0,2
